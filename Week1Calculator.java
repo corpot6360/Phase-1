@@ -47,7 +47,7 @@ public class Week1Calculator {
             System.out.print(prompt);
             String input = scanner.next();
             if (input.equalsIgnoreCase("e")) {
-                System.out.println("Exiting program...");
+                System.out.println("Thank you for using Java Calculator. Goodbye");
                 System.exit(0);
             }
             try {
@@ -64,7 +64,7 @@ public class Week1Calculator {
             System.out.print(prompt);
             String input = scanner.next();
             if (input.equalsIgnoreCase("e")) {
-                System.out.println("Exiting program");
+                System.out.println("Thank you for using Java Calculator. Goodbye");
                 System.exit(0);
             }
             try {
