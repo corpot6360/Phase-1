@@ -61,7 +61,7 @@ public class DivisionCalculator {
             } catch (NumberFormatException e) {
                 // Exception for when user enters invalid value for second number
                 System.out.println("Invalid input. Please enter a valid number.\n");
-            }we
+            }
         }
 
         // Closing message
